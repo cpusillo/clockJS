@@ -2,7 +2,7 @@
 Just another simple javascript clock. 
 
 ## How to use this app
-Just go [HERE](http://cpusillo.github.io) and check the time!
+Just go [HERE](http://cpusillo.github.io/clockJS) and check the time!
 
 ## Future contributions
 * Change timezone via the UI
